@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository
+
+Hello team!.
+
+I am changing the readme file to have a better description.
